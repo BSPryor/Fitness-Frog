@@ -40,8 +40,12 @@
             </div>
 
             <div class="form-group">
-                @Html.LabelFor(m => m.Exclude, new { @class = "control-label" })
-                @Html.TextBoxFor(m => m.Exclude, new { @class = "form-control" })
+                <div class=" checkbox">
+                    <lable>
+                        @Html.CheckBoxFor(m => m.Exclude) @Html.DisplayFor(m => m.Exclude)
+                    </lable>
+                </div>
+                
             </div>
 
         </div>
