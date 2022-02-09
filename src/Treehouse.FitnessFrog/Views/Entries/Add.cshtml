@@ -4,16 +4,15 @@
 }
 
 <h2>@ViewBag.Title</h2>
-
-<form method="post">
-
+@using (Html.BeginForm())
+{
     <div class="row">
 
         <div class="col-md-6">
 
             <div class="form-group">
-                <label for="Date" class="control-label">Date</label>
-                <input type="text" id="Date" name="Date" class="form-control" value="@ViewBag.Date"/>
+                @Html.Label("Date", new { @class = "control-label" })
+                @Html.TextBox("Date", null, new { @class = "form-control" })
             </div>
 
             <div class="form-group">
@@ -28,12 +27,12 @@
 
             <div class="form-group">
                 <label for="Intensity" class="control-label">Intensity</label>
-                <input type="text" id="Intensity" name="Intensity" class="form-control" value="@ViewBag.Intensity"/>
+                <input type="text" id="Intensity" name="Intensity" class="form-control" value="@ViewBag.Intensity" />
             </div>
 
             <div class="form-group">
                 <label for="Exclude" class="control-label">Exclude</label>
-                <input type="text" id="Exclude" name="Exclude" class="form-control" value="@(ViewBag.Exclude != null ? ViewBag.Exclude.ToString() : "" )"/>
+                <input type="text" id="Exclude" name="Exclude" class="form-control" value="@(ViewBag.Exclude != null ? ViewBag.Exclude.ToString() : "" )" />
             </div>
 
         </div>
@@ -59,5 +58,4 @@
         </div>
 
     </div>
-
-</form>
+}
