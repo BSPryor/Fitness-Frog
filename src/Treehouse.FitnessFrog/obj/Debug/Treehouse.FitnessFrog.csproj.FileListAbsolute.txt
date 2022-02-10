@@ -21,3 +21,15 @@ C:\Users\Ben\Source\Repos\Fitness-Frog\src\Treehouse.FitnessFrog\obj\Debug\Treeh
 C:\Users\Ben\Source\Repos\Fitness-Frog\src\Treehouse.FitnessFrog\obj\Debug\Treehouse.FitnessFrog.csproj.CopyComplete
 C:\Users\Ben\Source\Repos\Fitness-Frog\src\Treehouse.FitnessFrog\obj\Debug\Treehouse.FitnessFrog.dll
 C:\Users\Ben\Source\Repos\Fitness-Frog\src\Treehouse.FitnessFrog\obj\Debug\Treehouse.FitnessFrog.pdb
+C:\Users\Ben\Source\Repos\Fitness-Frog\src\Treehouse.FitnessFrog\bin\roslyn\csc.exe
+C:\Users\Ben\Source\Repos\Fitness-Frog\src\Treehouse.FitnessFrog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ben\Source\Repos\Fitness-Frog\src\Treehouse.FitnessFrog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ben\Source\Repos\Fitness-Frog\src\Treehouse.FitnessFrog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ben\Source\Repos\Fitness-Frog\src\Treehouse.FitnessFrog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ben\Source\Repos\Fitness-Frog\src\Treehouse.FitnessFrog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ben\Source\Repos\Fitness-Frog\src\Treehouse.FitnessFrog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ben\Source\Repos\Fitness-Frog\src\Treehouse.FitnessFrog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ben\Source\Repos\Fitness-Frog\src\Treehouse.FitnessFrog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ben\Source\Repos\Fitness-Frog\src\Treehouse.FitnessFrog\bin\roslyn\vbc.exe
+C:\Users\Ben\Source\Repos\Fitness-Frog\src\Treehouse.FitnessFrog\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ben\Source\Repos\Fitness-Frog\src\Treehouse.FitnessFrog\bin\roslyn\VBCSCompiler.exe.config
